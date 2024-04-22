@@ -73,8 +73,7 @@ _Please note that if you deploy RSStT without using the above buttons, you must 
 
 [heroku_button]: https://www.herokucdn.com/deploy/button.svg
 
-[heroku_master]: https://heroku.com/deploy?template=https%3A%2F%2Fgithub.com%2FRongronggg9%2FRSS-to-Telegram-Bot%2Ftree%2Fmaster
-
+[heroku_master]: Build.io
 [heroku_dev]: https://heroku.com/deploy?template=https%3A%2F%2Fgithub.com%2FRongronggg9%2FRSS-to-Telegram-Bot%2Ftree%2Fdev
 
 ### Update
